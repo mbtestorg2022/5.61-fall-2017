@@ -4,45 +4,501 @@ title: Calendar
 uid: 4b5dc136-ab7e-a798-000a-901eb416c929
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Historical Background, Photoelectric Effect | &nbsp; |
-| 2 | Wave Nature of the Electron and the Internal Structure of an Atom | &nbsp; |
-| 3 | Two-Slit Experiment, Quantum Weirdness | &nbsp; |
-| 4 | Classical Wave Equation and Separation of Variables | &nbsp; |
-| 5 | Quantum Mechanics: Free Particle and Particle in 1D box | Problem Set 1 due |
-| 6 | 3-D Box and QM Separation of Variables | &nbsp; |
-| 7 | Classical Mechanical Harmonic Oscillator | &nbsp; |
-| 8 | Quantum Mechanical Harmonic Oscillator | Problem Set 2 due |
-| 9 | The Harmonic Oscillator: Creation and Annihilation Operators | &nbsp; |
-| 10 | The Time-Dependent Schrödinger Equation | &nbsp; |
-| 11 | Wavepacket Dynamics for Harmonic Oscillator and PIB | Problem Set 3 due |
-| 12 | Catch Up and Review, Postulates | &nbsp; |
-| &nbsp; | Exam #1 | &nbsp; |
-| 13 | From Hij Integrals to **H** Matrices I | &nbsp; |
-| 14 | From Hij Integrals to **H** Matrices II | Problem Set 4 due |
-| 15 | Non-Degenerate Perturbation Theory I | &nbsp; |
-| 16 | Non-Degenerate Perturbation Theory II: HO using **a**,**a****†** | &nbsp; |
-| 17 | Rigid Rotor I. Orbital Angular Momentum | Problem Set 5 due |
-| 18 | Rigid Rotor II. Derivation by Commutation Rules | &nbsp; |
-| 19 | Spectroscopy: Probing Molecules with Light | &nbsp; |
-| &nbsp; | Exam #2 | &nbsp; |
-| 20 | Hydrogen Atom I | &nbsp; |
-| 21 | Hydrogen Atom II. Rydberg States | &nbsp; |
-| 22 | Helium Atom | Problem Set 6 due |
-| 23 | Many-Electron Atoms | &nbsp; |
-| 24 | Molecular Orbital Theory I. Variational Principle and Matrix Mechanics | &nbsp; |
-| 25 | Molecular Orbital Theory II. H2+, A2, AB Diatomics | Problem Set 7 due |
-| 26 | Qualitative MO Theory: Hückel | &nbsp; |
-| 27 | Non-Degenerate Perturbation Theory III | &nbsp; |
-| 28 | Modern Electronic Structure Theory: Basis Sets | Problem Set 8 due |
-| 29 | Modern Electronic Structure Theory: Electronic Correlation | &nbsp; |
-| 30 | Time-Dependent Perturbation Theory I. **H** is Time-Independent, Zewail Wavepacket | &nbsp; |
-| &nbsp; | Exam #3 | &nbsp; |
-| 31 | Time-Dependent Perturbation Theory II. **H** is Time-Dependent: Two-Level Problem | &nbsp; |
-| 32 | Intermolecular Interactions by Non-Degenerate Perturbation Theory | &nbsp; |
-| 33 | Electronic Spectroscopy: Franck-Condon | &nbsp; |
-| 34 | Electronic Spectroscopy and Photochemistry | Problem Set 9 due |
-| 35 | δ-Functions, Eigenfunctions of **X**, Discrete Variable Representation | &nbsp; |
-| 36 | Time Dependence of Two-Level Systems: Density Matrix, Rotating Wave Approximation | &nbsp; |
-| &nbsp; | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Historical Background, Photoelectric Effect
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Wave Nature of the Electron and the Internal Structure of an Atom
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Two-Slit Experiment, Quantum Weirdness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Classical Wave Equation and Separation of Variables
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Mechanics: Free Particle and Particle in 1D box
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+3-D Box and QM Separation of Variables
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Classical Mechanical Harmonic Oscillator
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Mechanical Harmonic Oscillator
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Harmonic Oscillator: Creation and Annihilation Operators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Time-Dependent Schrödinger Equation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Wavepacket Dynamics for Harmonic Oscillator and PIB
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Catch Up and Review, Postulates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam #1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+From Hij Integrals to **H** Matrices I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+From Hij Integrals to **H** Matrices II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Non-Degenerate Perturbation Theory I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Non-Degenerate Perturbation Theory II: HO using **a**,**a****†**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Rigid Rotor I. Orbital Angular Momentum
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Rigid Rotor II. Derivation by Commutation Rules
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Spectroscopy: Probing Molecules with Light
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam #2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrogen Atom I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrogen Atom II. Rydberg States
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Helium Atom
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Many-Electron Atoms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Orbital Theory I. Variational Principle and Matrix Mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Orbital Theory II. H2+, A2, AB Diatomics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Qualitative MO Theory: Hückel
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Non-Degenerate Perturbation Theory III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Modern Electronic Structure Theory: Basis Sets
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Modern Electronic Structure Theory: Electronic Correlation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Time-Dependent Perturbation Theory I. **H** is Time-Independent, Zewail Wavepacket
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam #3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Time-Dependent Perturbation Theory II. **H** is Time-Dependent: Two-Level Problem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Intermolecular Interactions by Non-Degenerate Perturbation Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic Spectroscopy: Franck-Condon
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic Spectroscopy and Photochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+δ-Functions, Eigenfunctions of **X**, Discrete Variable Representation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Time Dependence of Two-Level Systems: Density Matrix, Rotating Wave Approximation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -35,11 +35,48 @@ There will be three ~50 minute examinations during the term and an officially sc
 Grading
 -------
 
-| ACTIVITY | POINTS |
-| --- | --- |
-| Three Exams | 300 |
-| Homework | 100 |
-| Final Exam | 200 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Exams
+{{< tdclose >}}
+{{< tdopen >}}
+300
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+100
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+200
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Textbook
 --------
